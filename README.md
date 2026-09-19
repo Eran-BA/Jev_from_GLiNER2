@@ -1,4 +1,4 @@
-# GLiNER2 Decision Service
+# Jev (from GLiNER2) Decision Service
 ## Architecture and Developer Handoff Specification
 
 **Document version:** 1.0 — English edition  
